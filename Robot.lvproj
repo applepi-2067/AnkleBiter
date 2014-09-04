@@ -129,7 +129,6 @@ DirectoryIndex index.htm
 			<Item Name="Commands" Type="Folder">
 				<Item Name="CMD_Drive.vi" Type="VI" URL="../AppleScript/Commands/CMD_Drive.vi"/>
 				<Item Name="CMD_Run.vi" Type="VI" URL="../AppleScript/Commands/CMD_Run.vi"/>
-				<Item Name="CMD_Shoot.vi" Type="VI" URL="../AppleScript/Commands/CMD_Shoot.vi"/>
 				<Item Name="CMD_Switch.vi" Type="VI" URL="../AppleScript/Commands/CMD_Switch.vi"/>
 				<Item Name="CMD_Wait.vi" Type="VI" URL="../AppleScript/Commands/CMD_Wait.vi"/>
 				<Item Name="Command Template.vi" Type="VI" URL="../AppleScript/Commands/Command Template.vi"/>
